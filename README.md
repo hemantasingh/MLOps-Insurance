@@ -44,3 +44,4 @@ Azure Machine Learning provides the following MLOps capabilities:
 
 ![ML Lifecycle](./architecture/ml-lifecycle.png)
 
+![ML Lifecycle](./architecture/ml-lifecycle.png)
